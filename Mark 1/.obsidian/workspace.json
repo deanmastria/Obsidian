@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "e9b285f7352efe8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3d96e01485cc8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44cc1f376e7e78cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTAC 103/Chat Prompts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "396df9da161ffdd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "392af1d5c57bde6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df98e650c3ed367f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75cef5ffae914a16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f33f8ea52a4a51a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1c63749481235a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "614adf73b9b1625b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49977e9d7b559a43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTAC 103/Chat Prompts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b37f639661479b9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTAC 103/Chat Prompts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdc8aad870a92f81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51d361c481db18da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTAC 103/Chat Prompts.md"
+              }
+            }
+          },
+          {
+            "id": "381464d73c38064f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "44cc1f376e7e78cc",
+  "lastOpenFiles": [
+    "Obsidian",
+    "CTAC 103/Optional Assignments/Notes for Op Assignments/Practicing IO Basics.md",
+    "CTAC 103/Chat Prompts.md",
+    "CTAC 103/Optional Assignments/Notes for Op Assignments/Optional Assignment Concurrency Notes.md",
+    "CTAC 103/Optional Assignments/Optional Assignment.md",
+    "2024-08-08.md",
+    "CTAC 103/Assignments/Repositories CTAC 103.md",
+    "CTAC 103/Assignments/Notes for Assignments/Assignment IO Notes.md",
+    "CTAC 103/Assignments/Notes for Assignments/Assignment Notes.md",
+    "CTAC 103/Practice Sites.md",
+    "CTAC 103/External Project Resources.md",
+    "CTAC 103/Assignments/Notes for Assignments",
+    "CTAC 103/Optional Assignments/Notes for Op Assignments",
+    "CTAC 103/Optional Assignments",
+    "CTAC 103/Assignments",
+    "CTAC 103"
+  ]
+}
